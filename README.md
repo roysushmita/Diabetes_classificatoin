@@ -8,3 +8,6 @@ Exploratory Data Analysis was performed to gain insights into the dataset.
 # Model Building
 The dataset was split into training and test sets.
 Multiple machine learning algorithms were used and the models were evaluated based on their F1 score.
+# Model Selection
+The Random Forest model yielded the highest F1 score, making it the best-fit model for predicting diabetes.
+The F1 score was chosen because it considers both precision and recall, which are critical for a medical issue like diabetes.
